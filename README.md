@@ -13,7 +13,7 @@ This project is a static HTML and CSS representation of the YouTube homepage. It
 
 ## Live Demo
 
-Check out the live demo [here](https://ravitej2005.github.io/YouTube_Homepage).
+Check out the live demo [here](https://ravitej2005.github.io/YouTube_Homepage/youtube.html).
 
 ## Installation
 
