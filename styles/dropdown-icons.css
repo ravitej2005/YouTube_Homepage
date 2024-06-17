@@ -1,0 +1,34 @@
+.queue{
+    width: 25px;
+    height: 20px;
+}
+
+.watch-later{
+    width: 25px;
+    height: 20px;
+}
+
+.playlist{
+    width: 25px;
+    height: 20px;
+}
+
+.download{
+    width: 20px;
+    height: 20px;
+}
+
+.share{
+    width: 20px;
+    height: 20px;
+}
+
+.not-interested{
+    width: 25px;
+    height: 20px;
+}
+
+.report{
+    width: 20px;
+    height: 20px;
+}
